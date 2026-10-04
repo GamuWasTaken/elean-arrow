@@ -1,0 +1,13 @@
+[package]
+name = "project-elean-arrow"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.102"
+flame = "0.2.2"
+
+muxide = "0.2.5"
+openh264 = "0.9.3"
+typst-kit = "0.15.1"
+
